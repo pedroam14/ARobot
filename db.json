@@ -1,1 +1,48 @@
-
+{
+  "boulders": [
+    {
+      "diff": "BLUE",
+      "name": "Amsonia"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Axolotl"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Balance"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Bizserge"
+    },
+    {
+      "diff": "BLUE",
+      "name": "Blútúsz"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Bot"
+    },
+    {
+      "diff": "GREEN",
+      "name": "Bugri"
+    },
+    {
+      "diff": "RED",
+      "name": "Buxus"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "California"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Chleone"
+    },
+    {
+      "diff": "YELLOW",
+      "name": "Coppi"
+    }
+  ]
+}
